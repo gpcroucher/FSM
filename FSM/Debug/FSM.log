@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  FSM.cpp
+c:\users\administrator\desktop\gpcroucher\fsm\fsm\fsm.cpp(43): error C2653: 'StateClosed': is not a class or namespace name
+c:\users\administrator\desktop\gpcroucher\fsm\fsm\fsm.cpp(52): error C2653: 'StateMoving': is not a class or namespace name
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(380,5): error MSB6006: "CL.exe" exited with code 2.
